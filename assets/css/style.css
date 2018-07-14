@@ -29,6 +29,7 @@ body {
 
 .buttons {
     margin-top: 30px;
+    padding: 30px;
 }
 
 #btn0, #btn1, #btn2, #btn3 {
